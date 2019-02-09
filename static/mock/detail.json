@@ -1,0 +1,25 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "七里山塘(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1412/b4/77f601b2a965f62a39a8939fbd5db488.water.jpg_600x330_5b5ad6bf.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/201403/07/26f2a7dcdd000e50d8f19750919a7e8c.jpg_r_800x800_0103f94a.jpg", "http://img1.qunarzz.com/sight/p0/201403/07/d98f4c1c882fbe21c6351df184c44efc.jpg_r_800x800_b78191d7.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/c6/2467595fffc3b302.jpg_750x200_cca13d51.jpg"
+    },{
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/51/36632b2cb850e902.jpg_750x200_fa4120db.jpg"
+    },{
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1609/9b/92803169bf819602.jpg_750x200_61e979be.jpg"
+    },{
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/ff/1bf7d3a4f6591002.jpg_750x200_40809f2a.jpg"
+    }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "des": "景点门票"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/67/9a1678221b8e0e02.png",
+      "des": "古镇"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+      "des": "一日游"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "des": "苏州必游"
+    }, {
+      "id": "0005",
+      "imgUrl": "https://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "des": "打卡圣地"
+    }, {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+      "des": "七里山塘"
+    }, {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png",
+      "des": "苏州园林"
+    }, {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+      "des": "拙政园"
+    }, {
+      "id": "0009",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "des": "虎丘"
+    }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/b4/77f601b2a965f62a39a8939fbd5db488.water.jpg_200x200_48b526c5.jpg",
+      "title": "七里山塘",
+      "des": "古香古色，品美食寻才子觅佳人"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1503/38/3806235c8444b759.water.jpg_200x200_c152fb10.jpg",
+      "title": "周庄",
+      "des": "🔥好评如潮，小伙伴热推景点~"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/201305/21/11a6f465375344e6c8d65eac.jpg_200x200_90d820f5.jpg",
+      "title": "寒山寺",
+      "des": "姑苏城外寒山寺，夜半钟声到客船"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/82/8268aa9ad25e1f1e90.water.jpg_200x200_041d4cf4.jpg",
+      "title": "锦溪古镇",
+      "des": "穿越林间，登临寺庙俯瞰苏州"
+    }, {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/85/85aa0c000578a01e90.water.jpg_200x200_0ccb4aa8.jpg",
+      "title": "拙政园",
+      "des": "江南古典园林代表，中国四大名园之一"
+    }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/70/b2f8425ce486ed.jpg_r_640x214_5db9de57.jpg",
+      "title": "细嗅历史的气息",
+      "des": "阅尽沧桑，不变的是恬静，待君细细品味"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1507/ab/1c456b9cbffc31.jpg_r_640x214_1c2552de.jpg",
+      "title": "寻魅力江南古镇",
+      "des": "发呆静思，度过一个悠闲的下午"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1509/f1/aae8a98504964a.jpg_r_640x214_0611b9bc.jpg",
+      "title": "苏州自驾赏秋",
+      "des": "水乡天堂，苏州正红叶之季"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1511/47/8989497ae9bd3f.jpg_r_640x214_18c6d947.jpg",
+      "title": "秦淮之地必泡金汤",
+      "des": "江南佳丽地，享滋润温汤，葆青春容颜"
+    }, {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/8a/d412db9fcd44dd.jpg_r_640x214_86f303a2.jpg",
+      "title": "苏州必游TOP10",
+      "des": "苏州必须要留下足迹的十个地标"
+    }]
+  }
+}
